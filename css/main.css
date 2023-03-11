@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .SdhsLogo{
     position: relative;
     width: 450px;
@@ -85,10 +86,220 @@ h2 {
     margin: auto;
     top: 50%;
     transform: translateY(-50%);
+=======
+.headbar{
+    box-sizing: border-box;
+    overflow: auto;
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+
+    background: rgba(255, 255, 255, 0.65);
+    border: 2px solid #ECECEC;
+
+}
+.SdhsLogo {
+    position: absolute;
+    width: 100px;
+    height: auto;
+    left: 3%;
+    top: 10px;
+
+    background-image: url(image.png);
+    background-size: cover;
+}
+
+
+.MenuLogo{
+    position: absolute;
+    width: 60px;
+    height: 70px;
+    left: 96%;
+    top: 25px;
+
+    background: url(image.png);
+}
+.R1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    left: 160px;
+    top: 175px;
+
+    background: rgba(255, 255, 255, 0.65);
+    border: 2px solid #ECECEC;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px rgb(114, 105, 105);
+    
+}
+.R2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    left: 760px;
+    top: 175px;
+
+    background: rgba(255, 255, 255, 0.65);
+    border: 2px solid #ECECEC;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px rgb(114, 105, 105);
+    
+}
+.R3{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    left: 1360px;
+    top: 175px;
+
+    background: rgba(255, 255, 255, 0.65);
+    border: 2px solid #ECECEC;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px rgb(114, 105, 105);
+    
+}
+.R4{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 700px;
+    height: 400px;
+    left: 160px;
+    top: 500px;
+
+    background: rgba(255, 255, 255, 0.65);
+    border: 2px solid #ECECEC;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px rgb(114, 105, 105);
+}
+.R5{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 700px;
+    height: 400px;
+    left: 1110px;
+    top: 500px;
+
+    background: rgba(255, 255, 255, 0.65);
+    border: 2px solid #ECECEC;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px rgb(114, 105, 105);
+}
+.post1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 700px;
+    height: 80px;
+    left: -2px;
+    top: 320px;
+
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+}
+.post2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 700px;
+    height: 80px;
+    left: -2px;
+    top: 240px;
+
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+}
+.post3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 700px;
+    height: 80px;
+    left: -2px;
+    top: 160px;
+
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+}
+.post4 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 700px;
+    height: 80px;
+    left: -2px;
+    top: 80px;
+
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+}
+.Clock {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 10px;
+    top: 10px;
+    border-radius: 0px;
+
+    background: url(image.png);
+}
+.ForkSpoon {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 10px;
+    top: 10px;
+    border-radius: 0px;
+
+    background: url(image.png);
+}
+.Bus {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 10px;
+    top: 10px;
+    border-radius: 0px;
+
+    background: url(image.png);
+}
+h1 > a{
+    position: relative;
+    width: 300px;
+    height: auto;
+    top: 13px;
+    left: 860px;
+
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: auto;
+    font-size: 33px;
+    line-height: 24px;
+
+
+    color: #6A93FF;
+}
+h2 {
+    position: absolute;
+    width: 250px;
+    height: 18px;
+    left: 75px;
+    top: 0px;
+>>>>>>> 2a733e571f15ca2242276ce6413ad23f3e837683
 
     font-family: 'Libre Franklin';
     font-style: normal;
     font-weight: 700;
+<<<<<<< HEAD
     font-size: 25px;
     line-height: 30px;
 
@@ -151,4 +362,136 @@ input {
     background: #FFFFFF;
     border: 2px solid #D9D9D9;
     border-radius: 5px;
+=======
+    font-size: 30px;
+    line-height: 18px;
+
+    color: #000000;
+    
+}
+h3 {
+    position: absolute;
+    width: 250px;
+    height: 18px;
+    left: 75px;
+    top: 0px;
+    
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+h4 {
+    position: absolute;
+    width: 300px;
+    height: 18px;
+    left: 75px;
+    top: -12px;
+    
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+h5 {
+    position: absolute;
+    width: 300px;
+    height: 18px;
+    left: 20px;
+    top: -35px;
+    
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.title{
+    position: absolute;
+    width: 300px;
+    height: 18px;
+    left: 20px;
+    top: -15px;
+    
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.time {
+    position: absolute;
+    width: 300px;
+    height: 18px;
+    left: 488px;
+    top: -15px;
+    
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.barogaggi {
+    position: absolute;
+    width: 200px;
+    height: 18px;
+    left: 560px;
+    top: 33px;
+    
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: auto;
+    font-size: 25px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.morebox {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    left: 65px;
+    top: 80px;
+
+    background: #D9D9D9;
+    border: 2px solid #D9D9D9;
+    border-radius: 25px;
+}
+.More{
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 25px;
+    top: 13px;
+
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 18px;
+
+    color: #000000;
+}
+body {
+    font-family: 'Libre Franklin', sans-serif;
+}
+a {
+    text-decoration: none;
+    font-family: 'Libre Franklin', sans-serif;
+>>>>>>> 2a733e571f15ca2242276ce6413ad23f3e837683
 }
