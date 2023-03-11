@@ -1,0 +1,11 @@
+.sdhs {position: absolute; left: 30px;}
+.digitech { width: 174px; height: 34px; top: 19px; text-align: center;}
+.xmf {box-sizing: border-box;  width: 2300px; height: 80px; border-bottom: 1px solid #C9C9C9; display: flex; justify-content: center; align-items: center;}
+.rnedl {display: flex; justify-content: center; align-items: center; height: 100%;}
+.gmfls {position: relative; width: 1000px; height: 400px; background-color: rgba(236, 236, 236, 0.65); display: flex; align-items: center; justify-content: center; flex-direction: column;}
+.wnghkd {display: flex; align-items: center; justify-content: center; flex-direction: column;}
+.one {border-radius: 10px; background-color: #C62917; width: 300px; text-align: center; margin-top: 100px;}
+.two {background-color: #C62917; border-radius: 10px; width: 300px; text-align: center; margin-top: 30px;}
+.search {color: #6197FF; margin-top: 60px;}
+.setting {color: #6197FF;}
+body, html {height: 90%; margin: 0;}
